@@ -125,7 +125,7 @@ transform: translateY(-20px);
   transform: scale(1);
 }
 }
-@media (max-width: 480px) {
+@media (max-width: 480px) {}
 .container {
 max-width: 100%;
 margin: 30px 10px;
@@ -146,5 +146,4 @@ h1 {
     font-size: 14px;
     margin-left: 550px;
     }
-    
     
